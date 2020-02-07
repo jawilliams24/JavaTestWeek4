@@ -6,8 +6,8 @@ package com.qa.game;
  * east or west work, it will throw a WrongDirectionException.
  * This kind of breaks the game, even though it still seems to run.
  * I would recommend re-running the program.
+ * 
  * @author James Williams
- *
  */
 
 public class Runner {

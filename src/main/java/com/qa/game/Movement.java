@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * This is the Movement class. This class runs a method that gives the player a
  * choice of movement directions, then runs the method depending on the player's
- * choice.
+ * decision.
  * 
  * @author James Williams
  */
