@@ -11,8 +11,8 @@ public class Runner {
 
 	public static void main(String[] args) {
 
-		System.out.println("You are standing in what looks like a swamp. All around you\n"
-				+ "you are surrounded by stinking murky water and there are some strange\n"
+		System.out.println("You are standing in what looks like a swamp.\n"
+				+ "You are surrounded by stinking murky water and there are some strange\n"
 				+ "plants that you don't recognise. You notice a small circular device in your\n"
 				+ "hand. It looks kind of like a pocket watch, but doesn't tell the time.\n"
 				+ "It has north, south, east, west on it where there should be times.\n"

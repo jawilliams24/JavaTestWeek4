@@ -5,7 +5,6 @@ package com.qa.game;
  * enter anything but north, south, east or west.
  * 
  * @author James Williams
- *
  */
 
 @SuppressWarnings("serial")

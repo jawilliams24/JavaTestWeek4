@@ -8,7 +8,6 @@ import java.util.Scanner;
  * choice.
  * 
  * @author James Williams
- *
  */
 
 public class Movement {
