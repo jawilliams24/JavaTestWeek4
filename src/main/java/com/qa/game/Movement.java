@@ -13,8 +13,6 @@ import java.util.Scanner;
 
 public class Movement {
 
-	private Double location;
-
 	static int xPos = 0;
 	static int yPos = 0;
 	static int[] coordinates = { xPos, yPos };
