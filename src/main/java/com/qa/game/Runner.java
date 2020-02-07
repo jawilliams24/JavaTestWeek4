@@ -2,7 +2,10 @@ package com.qa.game;
 
 /**
  * This is the Runner class for my Infinite Terrain Swamp game.
- * 
+ * If you decide to test to see if inputs other than north, south,
+ * east or west work, it will throw a WrongDirectionException.
+ * This kind of breaks the game, even though it still seems to run.
+ * I would recommend re-running the program.
  * @author James Williams
  *
  */
@@ -32,7 +35,7 @@ public class Runner {
 			/**
 			 * At the moment, the program is hard coded to finish when the player reaches a
 			 * certain point. In the future, this could be changed to have a Math.Random()
-			 * method called to assign this
+			 * method called to assign this.
 			 */
 
 			while (Movement.xPos != -6 && Movement.yPos != -4) {

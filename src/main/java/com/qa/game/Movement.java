@@ -30,6 +30,8 @@ public class Movement {
 		 * Below is the switch statement that depends on user input then runs a function
 		 * depending on that. That really long mathsy bit is because I couldn't figure
 		 * out a simpler way of squaring numbers from an array.
+		 * Currently, because the method is static, "move" is saved as the first direction
+		 * you choose to move in. Couldn't figure out a way to fix this.
 		 */
 
 		switch (move) {

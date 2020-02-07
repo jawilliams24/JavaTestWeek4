@@ -2,7 +2,7 @@ package com.qa.game;
 
 /**
  * Here is my WrongDirectionException that should be thrown if the user tries to
- * enter anything but north, south, east or west.
+ * enter anything other than north, south, east or west.
  * 
  * @author James Williams
  */
